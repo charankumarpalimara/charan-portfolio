@@ -5,7 +5,9 @@ import { GithubIcon } from './Icons.jsx';
 import '../styles/components.css';
 
 const projects = [
+  { title: 'Sherla Properties', desc: 'End-to-end real estate marketplace for verified property listings in Hyderabad — public website, vendor panel for agents and developers, and admin panel for platform management.', tags: ['React.js', 'Node.js', 'Tailwind CSS', 'Zustand', 'TanStack Query', 'Redux'], link: 'https://sherlaproperties.com/' },
   { title: 'LiveWell Rehabilitation', desc: 'Dynamic e-commerce platform for a child rehabilitation organization, delivering specialized developmental resources and support services.', tags: ['React.js', 'Node.js', 'MongoDB'], link: 'https://www.livewellrehabilitationnetwork.com/' },
+  { title: 'GreenCo Estate', desc: 'Full-stack luxury real estate platform for premium apartments and eco-luxe plots in Hyderabad, with a public website and admin panel for property and content management.', tags: ['React.js', 'Node.js', 'Admin Panel','MongoDB'], link: 'https://greencoestates.com/' },
   { title: 'FARE Real Estate', desc: 'Elite educational platform offering specialized masterclasses in property sales, investment strategies, and RERA compliance.', tags: ['React.js', 'Framer Motion', 'Tailwind CSS'], link: 'https://fare-dark-theme.vercel.app/' },
   { title: 'Little Hearts', desc: 'A modern social application focused on fostering kindness, meaningful connections, and building a vibrant online community.', tags: ['React.js', 'Node.js', 'Tailwind CSS'], link: 'https://littlehearts.live/' },
   { title: 'CHALOO Sports', desc: 'India\'s Premier Sports Platform connecting players, professional coaches, and academies for elite training opportunities.', tags: ['React.js', 'PHP', 'MySQL'], link: 'https://umayur.com/' },
